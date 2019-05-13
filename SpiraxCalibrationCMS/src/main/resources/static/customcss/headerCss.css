@@ -1,0 +1,28 @@
+#homeCss{
+    color: white;
+    font-family: Cambria;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#welcomeCss{
+    color: black;
+    font-family: Cambria;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#loggedinCss{
+    color: #20B2AA;
+    font-family: Cambria;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#loginbtnCss{
+    color: white;
+    font-family: Cambria;
+    font-weight: bold;
+    font-size: 16px;
+	background-color:#20B2AA;
+}

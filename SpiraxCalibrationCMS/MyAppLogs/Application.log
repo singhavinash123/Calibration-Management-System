@@ -1,0 +1,21 @@
+"2019-05-07 21:28:09 [main] INFO  c.s.SpiraxCalibrationApplicationTests - Starting SpiraxCalibrationApplicationTests on ADMIN-PC with PID 4916 (started by ADMIN in D:\STSWorkspace\SpiraxCalibrationProd2)
+""2019-05-07 21:28:09 [main] INFO  c.s.SpiraxCalibrationApplicationTests - No active profile set, falling back to default profiles: default
+""2019-05-07 21:28:13 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: Ant [pattern='/resources/**'], []
+""2019-05-07 21:28:13 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: Ant [pattern='/customcss/**'], []
+""2019-05-07 21:28:13 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: Ant [pattern='/bootstrap/**'], []
+""2019-05-07 21:28:13 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: Ant [pattern='/custom/**'], []
+""2019-05-07 21:28:13 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: Ant [pattern='/static/**'], []
+""2019-05-07 21:28:13 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: Ant [pattern='/css/**'], []
+""2019-05-07 21:28:13 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: Ant [pattern='/js/**'], []
+""2019-05-07 21:28:13 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: Ant [pattern='/images/**'], []
+""2019-05-07 21:28:14 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@74dbb1ee, org.springframework.security.web.context.SecurityContextPersistenceFilter@3baf6936, org.springframework.security.web.header.HeaderWriterFilter@65753040, org.springframework.security.web.csrf.CsrfFilter@2330e3e0, org.springframework.security.web.authentication.logout.LogoutFilter@c2e3264, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@79d06bbd, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@57c47a9e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@27b2faa6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@70f822e, org.springframework.security.web.session.SessionManagementFilter@4acb2510, org.springframework.security.web.access.ExceptionTranslationFilter@1b4ae4e0, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@11b455e5]
+""2019-05-07 21:28:15 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2019-05-07 21:28:15 [main] INFO  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+""2019-05-07 21:28:15 [main] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 23b15571-4f0b-4e64-b3a9-683ac9a11546
+
+""2019-05-07 21:28:16 [main] INFO  c.s.SpiraxCalibrationApplicationTests - Started SpiraxCalibrationApplicationTests in 7.426 seconds (JVM running for 8.703)
+""2019-05-07 21:28:16 [Thread-3] INFO  o.s.s.c.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+""2019-05-07 21:28:16 [Thread-3] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+"
